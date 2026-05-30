@@ -28,29 +28,9 @@ Supporting secure and scalable healthcare analytics.
 📋 Real-time prediction results
 📁 Support for multiple healthcare datasets
 🔄 Federated model aggregation
-🏗️ System Architecture
-                 Health Datasets
-                        │
- ┌──────────────┬──────────────┬──────────────┐
- │              │              │              │
- ▼              ▼              ▼              ▼
-Diabetes   Hypertension    Obesity      Thyroid
- Dataset      Dataset      Dataset      Dataset
- │              │              │              │
- ▼              ▼              ▼              ▼
-Local ML    Local ML      Local ML     Local ML
- Models      Models        Models       Models
- │              │              │              │
- └──────────────┴──────────────┴──────────────┘
-                        │
-                        ▼
-            Federated Aggregation
-                        │
-                        ▼
-            Global Prediction Model
-                        │
-                        ▼
-           Overall Health Assessment
+e
+
+
 🛠️ Technologies Used
 Frontend
 HTML5
@@ -76,6 +56,8 @@ Git
 GitHub
 API Testing
 Postman
+
+
 📂 Project Structure
 Federated-Health-Prediction/
 │
@@ -107,6 +89,8 @@ Federated-Health-Prediction/
 └── package.json
 📊 Datasets Used
 
+
+
 The system utilizes multiple healthcare datasets for training and prediction:
 
 Diabetes Dataset
@@ -117,6 +101,8 @@ Hydration Dataset
 General Health Dataset
 
 Each dataset is trained independently before participating in the federated aggregation process.
+
+
 
 ⚙️ Working Process
 Step 1: Data Collection
