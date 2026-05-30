@@ -150,32 +150,6 @@ Global Health Model
      │
      ▼
 Health Prediction
-🚀 Installation
-Clone Repository
-git clone https://github.com/yourusername/federated-health-prediction.git
-Navigate to Project
-cd federated-health-prediction
-Install Backend Dependencies
-npm install
-Install Frontend Dependencies
-cd frontend
-npm install
-Install Python Dependencies
-pip install pandas numpy scikit-learn matplotlib tensorflow tensorflow-federated
-Run Backend
-npm start
-Run Frontend
-npm run dev
-📈 Future Enhancements
-Deep Learning integration
-Real-time health monitoring
-Wearable device connectivity
-Explainable AI (XAI)
-Mobile application support
-Cloud-based federated deployment
-Personalized healthcare recommendations
-Multi-hospital federated network
-🔒 Privacy & Security
 
 The project follows a privacy-first approach by:
 
